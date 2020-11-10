@@ -10,5 +10,7 @@ public class AfterFirstCommit {
 		System.out.println("third commit done");
 		
 		System.out.println("push after 4th commit");
+		
+		System.out.println("push after 5th commit");
 	}
 }
