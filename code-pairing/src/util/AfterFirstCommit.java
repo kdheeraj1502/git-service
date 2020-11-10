@@ -6,5 +6,7 @@ public class AfterFirstCommit {
 		System.out.println("Its first commit");
 		
 		System.out.println("second commit done");
+		
+		System.out.println("third commit done");
 	}
 }
